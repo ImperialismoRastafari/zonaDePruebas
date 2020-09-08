@@ -4,10 +4,10 @@ body{
 }
 
 #barraderecha{
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
     float: right;
-    padding: 100px;
+    padding: 50px;
 }
 .rainbow-text{
     background: repeating-linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
