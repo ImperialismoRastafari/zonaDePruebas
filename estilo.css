@@ -9,11 +9,11 @@ body{
     float: right;
     padding: 50px;
 }
-.rainbow-text{
+.rainbow-text:hover{
     background: repeating-linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: slide 15s linear infinite forwards;
+    animation: slide 5s linear infinite forwards;
 }
 @keyframes slide {
     0%{
